@@ -1,0 +1,61 @@
+IBM Attrition Analysis: Data Story
+1. Overview
+The IBM attrition analysis provides a detailed view of employee turnover, examining various factors such as department, job level, age group, education degree, salary, and other relevant dimensions. This analysis aims to uncover patterns and insights to help IBM address and mitigate attrition rates.
+
+2. Attrition Rate
+Current Employees: IBM has a total of 1,030 employees.
+Overall Attrition Rate: The overall attrition rate stands at 16%.
+Department-wise Attrition:
+Sales department shows the highest attrition rate at around 20%.
+Human Resources department follows with an attrition rate slightly above 15%.
+Research & Development department has the lowest attrition rate, close to 15%.
+3. Demographic Insights
+Age Group and Attrition:
+Employees aged 20-29 show the highest attrition rate at 26%.
+Attrition decreases with age, with the 40-49 age group showing the lowest attrition rate at 14%.
+Gender and Attrition:
+Female employees tend to leave more frequently compared to male employees.
+Education and Attrition:
+Employees with a bachelor’s degree have a higher attrition rate compared to those with master’s or doctoral degrees.
+Attrition is significantly lower among employees with doctoral degrees.
+4. Job Level and Salary Insights
+Job Level and Years Since Last Promotion:
+Entry-level positions show higher attrition rates, and employees in these positions have fewer years since their last promotion.
+Senior positions exhibit lower attrition rates, indicating better retention at higher levels.
+Salary Insights:
+There is a positive correlation between salary levels and job retention.
+Executive positions have the highest average salary and the lowest attrition rates.
+5. Factors Influencing Attrition
+Work-Life Balance:
+Employees with good work-life balance ratings have lower attrition rates.
+Performance Ratings:
+Higher performance ratings correlate with lower attrition.
+Environment and Job Satisfaction:
+Employees rating their environment and job satisfaction as ‘average’ or ‘medium’ show higher attrition rates.
+6. Specific Insights
+Department and Monthly Income:
+Research & Development department employees have a wide range of incomes, with some outliers showing significantly high salaries.
+Sales department shows less variation in salary but a higher concentration of lower incomes.
+Years in Current Role:
+Most employees stay in their current roles for 0-10 years, with attrition peaking for those with 1-5 years in the current role.
+Promotion Frequency:
+Frequent promotions correlate with lower attrition rates. Employees who haven’t been promoted for a long time are more likely to leave.
+Recommendations
+Based on the insights from the data, the following recommendations can be made to address and reduce attrition:
+
+Short-Term Actions:
+Enhance Work-Life Balance:
+Introduce flexible working hours and remote working options.
+Provide wellness programs to improve employee satisfaction.
+Targeted Retention Programs:
+Focus on retaining younger employees (20-29 age group) through mentorship and career development programs.
+Offer competitive salary packages and bonuses to employees in entry-level positions to enhance retention.
+Frequent Performance Reviews:
+Conduct regular performance reviews and offer timely promotions to deserving employees.
+Long-Term Strategies:
+Career Development:
+Invest in career development programs, especially for employees with bachelor’s degrees, to encourage continuous learning and growth.
+Diversity and Inclusion:
+Implement programs that address the higher attrition rates among female employees and promote a diverse and inclusive workplace.
+Data-Driven Decisions:
+Utilize predictive analytics to identify at-risk employees and proactively address their concerns.
